@@ -14,9 +14,9 @@
   "esmodules": [],
   "styles": [],
   "packs": [],
-  "url": "https://github.com/justanotheridea/5edependencies",
-  "manifest": "https://raw.githubusercontent.com/justanotheridea/5edependencies/main/module.json",
-  "download": "https://github.com/justanotheridea/5edependencies/raw/main/module.zip",
+  "url": "https://github.com/JustAnotherIdea/customDependancies5e",
+  "manifest": "https://raw.githubusercontent.com/JustAnotherIdea/customDependancies5e/main/module.json",
+  "download": "https://github.com/JustAnotherIdea/customDependancies5e/raw/main/module.zip",
   "relationships": {
     "requires": [
       {
