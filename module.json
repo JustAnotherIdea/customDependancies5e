@@ -20,122 +20,122 @@
   "relationships": {
     "requires": [
       {
-        "id": "Active Auras",
+        "id": "ActiveAuras",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Active Token Effects",
+        "id": "ATL",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Always HP",
+        "id": "always-hp",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Ambient Doors",
+        "id": "ambientdoors",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Ammo Tracker",
+        "id": "ammo-tracker-fvtt",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Arbron’s Improved HP Bar",
+        "id": "arbron-hp-bar",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Argon - Combat HUD (DND5E)",
+        "id": "enhancedcombathud-dnd5e",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Background Volume",
+        "id": "background-volume",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Baileywiki Mass Edit",
+        "id": "multi-token-edit",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Bar Brawl",
+        "id": "barbrawl",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Build-a-Bonus",
+        "id": "babonus",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Carousel Combat Tracker",
+        "id": "combat-tracker-dock",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Character Actions List dnd5e",
+        "id": "character-actions-list-5e",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Combat Enhancements",
+        "id": "combat-enhancements",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Combat Ready!",
+        "id": "combatready",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Custom CSS",
+        "id": "custom-css",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Cycle Token Stack",
+        "id": "cycle-token-stack",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "D&D5e Character Monitor",
+        "id": "dnd5e-character-monitor",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "D&D5E Dark Mode",
+        "id": "dnd5e-dark-mode",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "DDB-Importer: A D&D Beyond Integrator",
+        "id": "ddb-importer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "DF Manual Rolls",
+        "id": "df-manual-rolls",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "DFreds Convenient Effects",
+        "id": "dfreds-convenient-effects",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Dice So Nice!",
+        "id": "dice-so-nice",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Dice Tray",
+        "id": "dice-calculator",
         "type": "module",
         "compatibility": {}
       },
@@ -145,17 +145,17 @@
         "compatibility": {}
       },
       {
-        "id": "VuePort: Let the Light in!",
+        "id": "vueport",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "The Forge: Compendium Library",
+        "id": "forge-compendium-browser",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "The Sunless Citadel",
+        "id": "dndbeyond-tsc",
         "type": "module",
         "compatibility": {}
       },
@@ -165,137 +165,137 @@
         "compatibility": {}
       },
       {
-        "id": "Drag Ruler",
+        "id": "drag-ruler",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Dynamic effects using Active Effects (DAE)",
+        "id": "dae",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Midi QOL",
+        "id": "midi-qol",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Gambit's Premades",
+        "id": "gambits-premades",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Chris's Premades",
+        "id": "chris-premades",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Midi Item Showcase - Community",
+        "id": "midi-item-showcase-community",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Midi SRD",
+        "id": "midi-srd",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Effect Macro",
+        "id": "effectmacro",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Find the culprit",
+        "id": "find-the-culprit",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Forien's Ammo Swapper",
+        "id": "forien-ammo-swapper",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Foundry Community Tables",
+        "id": "foundry_community_tables",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "FoundryVTT Arms Reach",
+        "id": "foundryvtt-arms-reach",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "FoundryVTT Cards",
+        "id": "FoundryVTTCards",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "FXMaster",
+        "id": "fxmaster",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Give item to another player",
+        "id": "give-item",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "GM Vision",
+        "id": "gm-vision",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Group Initiative",
+        "id": "group-initiative",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Item Macro",
+        "id": "itemacro",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Item Piles",
+        "id": "item-piles",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Better Roll Tables",
+        "id": "better-rolltables",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "JB2A - Patreon Complete Collection",
+        "id": "jb2a_patreon",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Argon - Combat HUD (CORE)",
+        "id": "enhancedcombathud",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "CodeMirror",
+        "id": "_CodeMirror",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "lib - Color Settings",
+        "id": "colorsettings",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Forien's Copy Environment",
+        "id": "forien-copy-environment",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Library: Scene Packer",
+        "id": "scene-packer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "libWrapper",
+        "id": "lib-wrapper",
         "type": "module",
         "compatibility": {}
       },
@@ -305,292 +305,292 @@
         "compatibility": {}
       },
       {
-        "id": "Token Action HUD Core",
+        "id": "token-action-hud-core",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Limits",
+        "id": "limits",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Lock View",
+        "id": "LockView",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Loot Sheet NPC 5e (Simple Version)",
+        "id": "lootsheet-simple",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Magic Items",
+        "id": "magicitems",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Module Compatibility Checker",
+        "id": "mcc",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Module Management+",
+        "id": "module-credits",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's Active Tile Triggers",
+        "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Card Tiles",
+        "id": "card-tiles",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's Bloodsplats",
+        "id": "monks-bloodsplats",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's Enhanced Journal",
+        "id": "monks-enhanced-journal",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's Player Settings",
+        "id": "monks-player-settings",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's TokenBar",
+        "id": "monks-tokenbar",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Monk's Wall Enhancement",
+        "id": "monks-wall-enhancement",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Core",
+        "id": "moulinette-core",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Game Icons (module)",
+        "id": "moulinette-gameicons",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Scenes (module)",
+        "id": "moulinette-scenes",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Tiles (module)",
+        "id": "moulinette-tiles",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Image Search (module)",
+        "id": "moulinette-imagesearch",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Beneos Module",
+        "id": "beneos-module",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Moulinette Navigation Tools",
+        "id": "moulinette-navigation-tools",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Multilevel Tokens",
+        "id": "multilevel-tokens",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Multiple Document Selection",
+        "id": "multiple-document-selection",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "My Shared Compendia",
+        "id": "my-shared-compendia",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Ownership Viewer",
+        "id": "permission_viewer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "PDF Pager",
+        "id": "pdf-pager",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Perceptive",
+        "id": "perceptive",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Pin",
+        "id": "foundry-pin",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Point of Interest Teleporter",
+        "id": "poi-teleport",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "PopOut!",
+        "id": "popout",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Potato Or Not",
+        "id": "potato-or-not",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Quick Insert - Search Widget",
+        "id": "quick-insert",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Safety Tools",
+        "id": "safety-tools",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Sequencer",
+        "id": "sequencer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Automated Animations",
+        "id": "autoanimations",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "D&D5e Animations",
+        "id": "dnd5e-animations",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Show Art",
+        "id": "token-hud-art-button",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Simple Calendar",
+        "id": "foundryvtt-simple-calendar",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Weather Control",
+        "id": "weather-control",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Simple-Mobile",
+        "id": "simplemobile",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Stealthy",
+        "id": "stealthy",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Stochastic, Fantastic! - Random Encounter Generator",
+        "id": "dnd-randomizer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Stream View",
+        "id": "stream-view",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Tagger",
+        "id": "tagger",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Template Macro",
+        "id": "templatemacro",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "The Forge",
+        "id": "forge-vtt",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Times Up",
+        "id": "times-up",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token Action HUD D&D 5e",
+        "id": "token-action-hud-dnd5e",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token Attacher",
+        "id": "token-attacher",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token Frames",
+        "id": "token-frames",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token HUD Wildcard",
+        "id": "token-hud-wildcard",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Tokenizer",
+        "id": "vtta-tokenizer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token Magic FX",
+        "id": "tokenmagic",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Token Mold",
+        "id": "token-mold",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Vision 5e",
+        "id": "vision-5e",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Walled Templates",
+        "id": "walledtemplates",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Warp Gate",
+        "id": "warpgate",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "Arbron’s Summoning",
+        "id": "arbron-summoner",
         "type": "module",
         "compatibility": {}
       }
