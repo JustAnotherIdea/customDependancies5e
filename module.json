@@ -20,143 +20,15 @@
   "relationships": {
     "requires": [
       {
-        "id": "ActiveAuras",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "ATL",
         "type": "module",
+        "manifest": "https://github.com/kandashi/Active-Token-Lighting/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "always-hp",
+        "id": "ActiveAuras",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "ambientdoors",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "ammo-tracker-fvtt",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "arbron-hp-bar",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "enhancedcombathud-dnd5e",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "background-volume",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "multi-token-edit",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "barbrawl",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "babonus",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "combat-tracker-dock",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "character-actions-list-5e",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "combat-enhancements",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "combatready",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "custom-css",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "cycle-token-stack",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dnd5e-character-monitor",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dnd5e-dark-mode",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "ddb-importer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "df-manual-rolls",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dfreds-convenient-effects",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dice-so-nice",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dice-calculator",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dlopen",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "vueport",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "forge-compendium-browser",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dndbeyond-tsc",
-        "type": "module",
+        "manifest": "https://github.com/kandashi/Active-Auras/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
@@ -165,103 +37,326 @@
         "compatibility": {}
       },
       {
-        "id": "drag-ruler",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dae",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "midi-qol",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "gambits-premades",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "chris-premades",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "midi-item-showcase-community",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "midi-srd",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "effectmacro",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "find-the-culprit",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "forien-ammo-swapper",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundry_community_tables",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundryvtt-arms-reach",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "FoundryVTTCards",
         "type": "module",
+        "manifest": "https://github.com/jcolson/foundryvtt_cards/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "fxmaster",
+        "id": "LockView",
         "type": "module",
+        "manifest": "https://github.com/MaterialFoundry/LockView/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "give-item",
+        "id": "_CodeMirror",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/codemirror-lib/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "gm-vision",
+        "id": "always-hp",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/always-hp/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "group-initiative",
+        "id": "ambientdoors",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/EndlesNights/ambientdoors/master/module.json",
         "compatibility": {}
       },
       {
-        "id": "itemacro",
+        "id": "ammo-tracker-fvtt",
         "type": "module",
+        "manifest": "https://github.com/NekroDarkmoon/ammo-tracker-fvtt/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "item-piles",
+        "id": "arbron-hp-bar",
         "type": "module",
+        "manifest": "https://github.com/arbron/fvtt-hp-bar/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "arbron-summoner",
+        "type": "module",
+        "manifest": "https://github.com/arbron/fvtt-summoner/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "autoanimations",
+        "type": "module",
+        "manifest": "https://github.com/otigon/automated-jb2a-animations/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "babonus",
+        "type": "module",
+        "manifest": "https://github.com/krbz999/babonus/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "background-volume",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/mtvjr/background-volume/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "barbrawl",
+        "type": "module",
+        "manifest": "https://gitlab.com/woodentavern/foundryvtt-bar-brawl/-/raw/master/src/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "beneos-module",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/BeneosBattlemaps/beneos-module/main/module.json",
         "compatibility": {}
       },
       {
         "id": "better-rolltables",
         "type": "module",
+        "manifest": "https://github.com/p4535992/foundryvtt-better-rolltables/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "card-tiles",
+        "type": "module",
+        "manifest": "https://github.com/alessiocali/card-tiles/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "character-actions-list-5e",
+        "type": "module",
+        "manifest": "https://github.com/eastcw/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "chris-premades",
+        "type": "module",
+        "manifest": "https://github.com/chrisk123999/chris-premades/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "colorsettings",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/ardittristan/VTTColorSettings/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "combat-enhancements",
+        "type": "module",
+        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/combat-enhancements/raw/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "combat-tracker-dock",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/combat-tracker-dock/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "combatready",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Teshynil/combatready/master/src/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "custom-css",
+        "type": "module",
+        "manifest": "https://github.com/cswendrowski/FoundryVTT-Custom-CSS/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "cycle-token-stack",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/aka-beer-buddy/fvtt-cycle-token-stack/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "manifest": "https://gitlab.com/tposney/dae/raw/dndv3/package/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "ddb-importer",
+        "type": "module",
+        "manifest": "https://github.com/mrprimate/ddb-importer/releases/download/latest/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "df-manual-rolls",
+        "type": "module",
+        "manifest": "https://dragonflagon.cafe/mods/man/df-manual-rolls",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module",
+        "manifest": "https://github.com/DFreds/dfreds-convenient-effects/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "manifest": "https://github.com/mclemente/fvtt-dice-tray/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dlopen",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-randomizer",
+        "type": "module",
+        "manifest": "https://github.com/etriebe/dnd-randomizer/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd5e-animations",
+        "type": "module",
+        "manifest": "https://github.com/MrVauxs/dnd5e-animations/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd5e-character-monitor",
+        "type": "module",
+        "manifest": "https://github.com/jessev14/dnd5e-character-monitor/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd5e-dark-mode",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/stryxin/dnd5edark-foundryvtt/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "dndbeyond-tsc",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "drag-ruler",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "effectmacro",
+        "type": "module",
+        "manifest": "https://github.com/krbz999/effectmacro/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/enhancedcombathud/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud-dnd5e",
+        "type": "module",
+        "manifest": "https://github.com/theripper93/enhancedcombathud-dnd5e/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "find-the-culprit",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Moerill/fvtt-find-the-culprit/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "forge-compendium-browser",
+        "type": "module",
+        "manifest": "https://github.com/ForgeVTT/forge-compendium-browser/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-ammo-swapper",
+        "type": "module",
+        "manifest": "https://github.com/Foundry-Workshop/ammo-swapper/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-copy-environment",
+        "type": "module",
+        "manifest": "https://github.com/League-of-Foundry-Developers/foundryvtt-forien-copy-environment/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "foundry-pin",
+        "type": "module",
+        "manifest": "https://bitbucket.org/Fyorl/foundry-pin/raw/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "foundry_community_tables",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/tables/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-arms-reach",
+        "type": "module",
+        "manifest": "https://github.com/p4535992/foundryvtt-arms-reach/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "manifest": "https://github.com/vigoren/foundryvtt-simple-calendar/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "manifest": "https://github.com/ghost-fvtt/fxmaster/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "gambits-premades",
+        "type": "module",
+        "manifest": "https://github.com/gambit07/gambits-premades/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "give-item",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Sepichat/FoundryVTT-GiveItem/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "gm-vision",
+        "type": "module",
+        "manifest": "https://github.com/dev7355608/gm-vision/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "group-initiative",
+        "type": "module",
+        "manifest": "https://github.com/vtt-lair/foundry-group-initiative/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-ItemPiles/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "itemacro",
+        "type": "module",
+        "manifest": "https://github.com/Foundry-Workshop/Item-Macro/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
@@ -270,328 +365,339 @@
         "compatibility": {}
       },
       {
-        "id": "enhancedcombathud",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "_CodeMirror",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "colorsettings",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "forien-copy-environment",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "scene-packer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "lib-wrapper",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "socketlib",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-action-hud-core",
-        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "limits",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "LockView",
-        "type": "module",
+        "manifest": "https://github.com/dev7355608/limits/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "lootsheet-simple",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/jopeek/fvtt-loot-sheet-npc-5e/lootsheet-simple/module.json",
         "compatibility": {}
       },
       {
         "id": "magicitems",
         "type": "module",
+        "manifest": "https://github.com/PwQt/magic-items-2/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "mcc",
         "type": "module",
+        "manifest": "https://github.com/arcanistzed/mcc/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-item-showcase-community",
+        "type": "module",
+        "manifest": "https://github.com/txm3278/midi-item-showcase-community/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "manifest": "https://gitlab.com/tposney/midi-qol/raw/dnd3/package/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-srd",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/thatlonelybugbear/midi-srd/master/module.json",
         "compatibility": {}
       },
       {
         "id": "module-credits",
         "type": "module",
+        "manifest": "https://github.com/mouse0270/module-credits/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-active-tiles",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "card-tiles",
-        "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-active-tiles/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-bloodsplats",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-bloodsplats/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-enhanced-journal",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-enhanced-journal/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-player-settings",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-player-settings/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-tokenbar",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-tokenbar/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "monks-wall-enhancement",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/monks-wall-enhancement/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "moulinette-core",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-core/main/module.json",
         "compatibility": {}
       },
       {
         "id": "moulinette-gameicons",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "moulinette-scenes",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "moulinette-tiles",
-        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-gameicons/main/module.json",
         "compatibility": {}
       },
       {
         "id": "moulinette-imagesearch",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "beneos-module",
-        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-imagesearch/main/module.json",
         "compatibility": {}
       },
       {
         "id": "moulinette-navigation-tools",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-navigation-tools/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "moulinette-scenes",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-scenes/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "moulinette-tiles",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-tiles/main/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "multi-token-edit",
+        "type": "module",
+        "manifest": "https://github.com/Aedif/multi-token-edit/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "multilevel-tokens",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
         "compatibility": {}
       },
       {
         "id": "multiple-document-selection",
         "type": "module",
+        "manifest": "https://github.com/ironmonk88/multiple-document-selection/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "my-shared-compendia",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "permission_viewer",
-        "type": "module",
+        "manifest": "https://github.com/stschoelzel/My-Shared-Compendia/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "pdf-pager",
         "type": "module",
+        "manifest": "https://github.com/farling42/fvtt-pdf-pager/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "perceptive",
         "type": "module",
+        "manifest": "https://github.com/Saibot393/perceptive/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "foundry-pin",
+        "id": "permission_viewer",
         "type": "module",
+        "manifest": "https://github.com/mclemente/fvtt-module-permission-viewer/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "poi-teleport",
         "type": "module",
+        "manifest": "https://github.com/zeel01/poi-teleport/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "popout",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/fvtt-module-popout/master/module.json",
         "compatibility": {}
       },
       {
         "id": "potato-or-not",
         "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-PotatoOrNot/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "quick-insert",
         "type": "module",
+        "manifest": "https://gitlab.com/fvtt-modules-lab/quick-insert/-/jobs/artifacts/master/raw/module.json?job=build-module",
         "compatibility": {}
       },
       {
         "id": "safety-tools",
         "type": "module",
+        "manifest": "https://github.com/p4535992/foundryvtt-safety-tools/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "sequencer",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "autoanimations",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dnd5e-animations",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-hud-art-button",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundryvtt-simple-calendar",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "weather-control",
-        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "simplemobile",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Handyfon/simplemobile/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/master/module.json",
         "compatibility": {}
       },
       {
         "id": "stealthy",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "dnd-randomizer",
-        "type": "module",
+        "manifest": "https://github.com/Eligarf/stealthy/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "stream-view",
         "type": "module",
+        "manifest": "https://github.com/sPOiDar/fvtt-module-stream-view/raw/master/module.json",
         "compatibility": {}
       },
       {
         "id": "tagger",
         "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Tagger/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "templatemacro",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "forge-vtt",
-        "type": "module",
+        "manifest": "https://github.com/krbz999/templatemacro/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "times-up",
         "type": "module",
+        "manifest": "https://gitlab.com/tposney/times-up/raw/dndv3/package/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "manifest": "https://github.com/Larkinabout/fvtt-token-action-hud-core/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "token-action-hud-dnd5e",
         "type": "module",
+        "manifest": "https://github.com/Larkinabout/fvtt-token-action-hud-dnd5e/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "token-attacher",
         "type": "module",
+        "manifest": "https://github.com/KayelGee/token-attacher/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "token-frames",
         "type": "module",
+        "manifest": "https://github.com/yorkshirelandscape/token_frames/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "token-hud-art-button",
+        "type": "module",
+        "manifest": "https://github.com/zeel01/TokenHUDArtButton/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "token-hud-wildcard",
         "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "vtta-tokenizer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "tokenmagic",
-        "type": "module",
+        "manifest": "https://github.com/mhilbrunner/token-hud-wildcard/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "token-mold",
         "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Moerill/token-mold/master/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "tokenmagic",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/Feu-Secret/Tokenmagic/master/tokenmagic/module.json",
         "compatibility": {}
       },
       {
         "id": "vision-5e",
         "type": "module",
+        "manifest": "https://github.com/dev7355608/vision-5e/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "manifest": "https://github.com/MrPrimate/tokenizer/releases/download/latest/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "vueport",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json",
         "compatibility": {}
       },
       {
         "id": "walledtemplates",
         "type": "module",
+        "manifest": "https://github.com/caewok/fvtt-walled-templates/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
         "id": "warpgate",
         "type": "module",
+        "manifest": "https://github.com/trioderegion/warpgate/releases/latest/download/module.json",
         "compatibility": {}
       },
       {
-        "id": "arbron-summoner",
+        "id": "weather-contro",
         "type": "module",
+        "manifest": "https://gitlab.com/jstebenne/foundryvtt-weather-control/-/raw/master/static/module.jso",
         "compatibility": {}
       }
     ],
