@@ -1,0 +1,604 @@
+{
+  "title": "5edependencies",
+  "id": "5emoduledependencies",
+  "description": "just to install other modules",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "JustAnotherIdea",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "url": "https://github.com/justanotheridea/5edependencies",
+  "manifest": "https://raw.githubusercontent.com/justanotheridea/5edependencies/main/module.json",
+  "download": "https://github.com/justanotheridea/5edependencies/raw/main/module.zip",
+  "relationships": {
+    "requires": [
+      {
+        "id": "Active Auras",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Active Token Effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Always HP",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Ambient Doors",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Ammo Tracker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Arbron’s Improved HP Bar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Argon - Combat HUD (DND5E)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Background Volume",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Baileywiki Mass Edit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Bar Brawl",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Build-a-Bonus",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Carousel Combat Tracker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Character Actions List dnd5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Combat Enhancements",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Combat Ready!",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Custom CSS",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Cycle Token Stack",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "D&D5e Character Monitor",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "D&D5E Dark Mode",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "DDB-Importer: A D&D Beyond Integrator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "DF Manual Rolls",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "DFreds Convenient Effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Dice So Nice!",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Dice Tray",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dlopen",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "VuePort: Let the Light in!",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "The Forge: Compendium Library",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "The Sunless Citadel",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "DnD5eShopRollTables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Drag Ruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Dynamic effects using Active Effects (DAE)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Midi QOL",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Gambit's Premades",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Chris's Premades",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Midi Item Showcase - Community",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Midi SRD",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Effect Macro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Find the culprit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Forien's Ammo Swapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Foundry Community Tables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "FoundryVTT Arms Reach",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "FoundryVTT Cards",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "FXMaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Give item to another player",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "GM Vision",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Group Initiative",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Item Macro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Item Piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Better Roll Tables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "JB2A - Patreon Complete Collection",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Argon - Combat HUD (CORE)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "CodeMirror",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib - Color Settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Forien's Copy Environment",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Library: Scene Packer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "libWrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Action HUD Core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Limits",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Lock View",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Loot Sheet NPC 5e (Simple Version)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Magic Items",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Module Compatibility Checker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Module Management+",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's Active Tile Triggers",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Card Tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's Bloodsplats",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's Enhanced Journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's Player Settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's TokenBar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Monk's Wall Enhancement",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Game Icons (module)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Scenes (module)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Tiles (module)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Image Search (module)",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Beneos Module",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Moulinette Navigation Tools",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Multilevel Tokens",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Multiple Document Selection",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "My Shared Compendia",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Ownership Viewer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "PDF Pager",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Perceptive",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Pin",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Point of Interest Teleporter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "PopOut!",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Potato Or Not",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Quick Insert - Search Widget",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Safety Tools",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Automated Animations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "D&D5e Animations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Show Art",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Simple Calendar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Weather Control",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Simple-Mobile",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Stealthy",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Stochastic, Fantastic! - Random Encounter Generator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Stream View",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Tagger",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Template Macro",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "The Forge",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Times Up",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Action HUD D&D 5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Attacher",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Frames",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token HUD Wildcard",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Tokenizer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Magic FX",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Token Mold",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Vision 5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Walled Templates",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Warp Gate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "Arbron’s Summoning",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": []
+  },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
